@@ -1,12 +1,12 @@
 # Using Go to create a simple web service
 
-## Tutorial: Developing a RESTful API with Go and Gin
+## 1. Tutorial: Developing a RESTful API with Go and Gin
 
 For more information, click the following link:
 
 https://golang.org/doc/tutorial/web-service-gin
 
-## How to stop the Go web service
+## 2. How to stop the Go web service
 
 ###  Step 1. Find the port that is using 
   
