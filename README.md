@@ -12,9 +12,9 @@ https://golang.org/doc/tutorial/web-service-gin
   
   (eg. Your server port is 8090)
 
-  sudo Losf -i tcp:port
+  sudo Lsof -i tcp:port
 
-  eg. sudo Losf -i tcp:8090
+  eg. sudo Lsof -i tcp:8090
 
 ###  Step 2. Find the PID and kill it
 
